@@ -20,6 +20,7 @@ Frontend runs on port 3000.
 
 ## Backend
 
+The Postgres setup may vary depending on your system. The steps below assume you’re creating a new database named ticket_booking—you can choose a different name if you like.
 ```bash
 psql -U postgres -c "CREATE DATABASE ticket_booking"
 ```
