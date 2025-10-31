@@ -18,3 +18,5 @@ logs/
 
 # Testing coverage
 **/coverage
+
+**/dist
